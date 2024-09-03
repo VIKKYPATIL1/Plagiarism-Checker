@@ -1,2 +1,2 @@
 # Plagiarism-Checker
-The Plagiarism Checker is a Python-based application designed to detect similarities between text documents.
+The Plagiarism Checker is a Python-based application designed to detect similarities between text documents. Utilizing advanced algorithms and natural language processing techniques, the tool compares input texts against a database of existing content to identify potential plagiarism. It provides users with a detailed report highlighting matched sections and their sources, helping to maintain academic integrity and originality in written work.
